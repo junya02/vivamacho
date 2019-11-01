@@ -3,14 +3,12 @@
 
     <item
         android:id="@+id/navigation_macho"
-        android:icon="@drawable/ic_home_black_24dp"
-        android:title="筋トレメニュー" />
-
-
+        android:icon="@drawable/ic_fitness_center_black_24dp"
+        android:title="まっちょ" />
 
     <item
         android:id="@+id/navigation_chat"
-        android:icon="@drawable/ic_notifications_black_24dp"
+        android:icon="@drawable/ic_edit_black_24dp"
         android:title="チャット" />
 
 </menu>
