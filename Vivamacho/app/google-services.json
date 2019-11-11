@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "808082368586",
+    "firebase_url": "https://vivamacho-c54b6.firebaseio.com",
+    "project_id": "vivamacho-c54b6",
+    "storage_bucket": "vivamacho-c54b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808082368586:android:ff9763f029e7090bc09eb3",
+        "android_client_info": {
+          "package_name": "com.example.vivamacho"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808082368586-09csjgjn2mb15781p666p6bgs4fpml8a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3pgqFnuyif1jV1ZVa5zs43naGS2J2f3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808082368586-09csjgjn2mb15781p666p6bgs4fpml8a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
