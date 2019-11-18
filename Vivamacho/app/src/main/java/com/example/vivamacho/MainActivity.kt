@@ -7,6 +7,18 @@ import androidx.navigation.findNavController
 import androidx.navigation.ui.AppBarConfiguration
 import androidx.navigation.ui.setupActionBarWithNavController
 import androidx.navigation.ui.setupWithNavController
+import android.app.ListActivity
+import android.content.SharedPreferences
+import android.database.DataSetObserver
+import android.view.KeyEvent
+import android.view.View
+import android.view.inputmethod.EditorInfo
+import android.widget.EditText
+import android.widget.ListView
+import android.widget.TextView
+import android.widget.Toast
+
+import java.util.Random;
 
 class MainActivity : AppCompatActivity() {
 
